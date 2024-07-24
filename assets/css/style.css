@@ -565,12 +565,7 @@ iframe {
         border-radius: 15px;
         box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.171);
     }
-    
-    .botao3 button:hover {
-        width: 12rem;
-        height: 2.3rem;
-    }
-    
+       
     
     .botao3 button a {
         color: #ffffff;
