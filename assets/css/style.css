@@ -101,7 +101,7 @@ header {
 
 .home {
     width:100%;
-    background-image: url("/assets/img/Bg-Home.png");
+    background-image: url("/assets/img/Bg-Home.svg");
     display: flex;
     justify-content: center;
     margin: 0;
