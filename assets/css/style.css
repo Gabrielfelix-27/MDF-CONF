@@ -237,8 +237,12 @@ iframe {
 }
 
 .lineupconvidados img {
-   width: 80%;
+   width: 68%;
 }
+
+
+
+
 
 
 .quintaparte {
@@ -556,19 +560,21 @@ iframe {
         padding-top: 2.4rem;
        
      }
-
-     .botao3 button:hover {
-        display: none;
-    }
     
     .botao3 button {
-        cursor: none;
+        cursor: pointer;
         background-color: #ef0092;
         border: none;
         padding: 0.5rem 1rem;
         border-radius: 15px;
         box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.171);
     }
+    
+    .botao3 button:hover {
+        width: 12rem;
+        height: 2.3rem;
+    }
+    
     
     .botao3 button a {
         color: #ffffff;
@@ -622,10 +628,9 @@ iframe {
    width: 18rem;
 }
 
-
-
-
-
+.ultimaftline {
+    display: none;
+}
 
 .quintaingresso {
     width: 100%;
@@ -659,13 +664,15 @@ iframe {
     }
     
     .sextaparte img {
-    width: 22rem;
+    width: 19rem;
     padding-top: 2rem;
     }
     
     .sextaparte p {
     padding-top: 0rem;
-    padding-left: 0rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 0.9rem;
     color: #000000;
    
      }
@@ -701,7 +708,7 @@ iframe {
         }
 
         .texto1 img {
-           width: 20rem;
+           width: 19rem;
         }
 
         .faq {
@@ -818,7 +825,18 @@ iframe {
 
 .btn-abrir-menu img {
     width: 2.7rem;
+    
 
+}
+.overlay-menu {
+    width: 100vh;
+    height: 200vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 8888;
+    background-color: #3d82acb0;
+    display:none;
 }
 
 
