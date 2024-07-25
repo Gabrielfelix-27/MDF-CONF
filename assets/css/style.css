@@ -144,6 +144,7 @@ iframe {
 .terceiraparte {
     background-color: #ffb700;
     height:450px;
+    padding-bottom: 1rem;
 }
 
 .terceiraparte h1 {
@@ -225,13 +226,13 @@ iframe {
     grid-template-rows: auto;
     align-items: center;
     justify-items: center;
-    gap: 20px;
+    gap: 25px;
     padding-left: 30px;
     padding-bottom: 30px;
 }
 
 .lineupconvidados img {
-   width: 68%;
+   width: 70%;
 }
 
 
@@ -449,13 +450,13 @@ iframe {
 }
 
 .value {
-  font-size: 45px;
-  font-weight: 800;
+  font-size: 50px;
+  font-weight: 900;
   padding-top: 17px;
 }
 
 .name {
-  font-size: 16px;
+  font-size: 19px;
   padding-top: 10px;
   padding-bottom: 14px;
 }
@@ -626,8 +627,10 @@ iframe {
 }
 
 .lineupconvidados img {
-   width: 18rem;
+   width: 19rem;
 }
+
+
 
 .ultimaftline {
     display: none;
