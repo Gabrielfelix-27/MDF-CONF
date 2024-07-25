@@ -315,9 +315,14 @@ iframe {
         }
 
         .sextaparte p {
-        padding-top: 9rem;
+        padding-top: 5em;
         padding-left: 8rem;
         color: #000000;
+        font-size: 1.3rem;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.7rem;
+        
+        
 
 
         }
@@ -379,13 +384,13 @@ iframe {
         }
 
         .duvidasfaq {
-            width: 650px;
+            width: 32rem;
             padding-top: 2rem;
         }
 
         .faqperguntas {
             padding-top: 3rem;
-            width: 700px;
+            width: 40rem;
         }
 
         .ajudaequipe {
@@ -673,11 +678,16 @@ iframe {
     }
     
     .sextaparte p {
-    padding-top: 0rem;
-    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-left: 2.7rem;
     padding-right: 2rem;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     color: #000000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.1rem;
+    text-align: justify;
+    font-weight: 400;
+    
    
      }
      .setimaparte {
@@ -727,14 +737,14 @@ iframe {
         }
 
         .duvidasfaq {
-            width: 22rem;
-            padding-top: 2rem;
+            width: 19rem;
+            padding-top: 1.5rem;
         }
 
         .faqperguntas {
             padding-top: 2rem;
             padding-left: 0.5rem;
-            width: 26rem;
+            width: 24rem;
         }
 
         .ajudaequipe {
