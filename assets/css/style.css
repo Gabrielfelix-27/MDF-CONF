@@ -595,6 +595,15 @@ iframe {
   .value {
     font-weight: 800;
     padding-top: 5px;
+    font-size: 2rem;
+  }
+
+  
+  
+  .name {
+    font-size: 14px;
+    padding-top: 4px;
+    padding-bottom: 9px;
   }
   
   .quartaparte {
@@ -627,7 +636,7 @@ iframe {
 }
 
 .lineupconvidados img {
-   width: 19rem;
+   width: 20rem;
 }
 
 
